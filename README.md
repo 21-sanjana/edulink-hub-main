@@ -188,19 +188,14 @@ src/
 
 ---
 
-# 👩‍💻 Developer
+# 👩‍💻 Developers
 
-**Sanjana Karanam**
+**Sanjana Karanam** & **Shashikala G**
 
 🎓 Master of Computer Applications (MCA)
 
 💼 Aspiring Full Stack Developer
 
-📧 sanjanakaranam186@gmail.com
-
-🔗 LinkedIn: https://linkedin.com/in/sanjana-k-12364531a
-
-🐙 GitHub: https://github.com/21-sanjana
 
 ---
 
@@ -215,6 +210,6 @@ If you found this project helpful, please consider giving it a **⭐ Star** on G
 ### 🎓 EduLink Hub
 ### Empowering Education Through Technology
 
-Made with ❤️ by **Sanjana Karanam**
+Made with ❤️ by **Sanjana Karanam** & **Shashikala G**
 
 </div>
