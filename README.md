@@ -1,3 +1,5 @@
+https://edu-nexus-lyart.vercel.app/
+
 # 🎓 EduLink Hub
 
 <div align="center">
